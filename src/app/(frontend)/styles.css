@@ -92,11 +92,9 @@ svg {
 .home {
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
+  justify-content: center;
   align-items: center;
-  height: 100vh;
   padding: 45px;
-  max-width: 1024px;
   margin: 0 auto;
   overflow: hidden;
 
